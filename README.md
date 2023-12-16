@@ -12,7 +12,9 @@ RWKV의 repo를 개인이 관리하시다 보니 헷갈리는 점이 많아 작�
 
 [json2binidx_tool](https://github.com/Abel2076/json2binidx_tool) 이 repo의 가이드라인을 따라주세요. 
 
-여러분은 world를 구축하기 위해 *The multilingual rwkv-4-world models use a new tokenizer rwkv_vocab_v20230424.txt.* 이 가이드를 따라 데이터를 생성하면 됩니다.
+여러분은 world를 구축하기 위해 
+
+*The multilingual rwkv-4-world models use a new tokenizer rwkv_vocab_v20230424.txt.* 이 가이드를 따라 데이터를 생성하면 됩니다.
 
 # pretrain
 
