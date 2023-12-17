@@ -1,6 +1,6 @@
 # RWKV-world
 
-[RWKV-LM](https://github.com/BlinkDL/RWKV-LM/tree/main) 이 repo의 RWKV-v5를 pretrain 가이드를 작성하기 위해 만든 repo 입니다.
+[RWKV-LM](https://github.com/BlinkDL/RWKV-LM/tree/main) 이 repo의 RWKV-v5의 pretrain 가이드를 작성하기 위해 만든 repo 입니다.
 
 RWKV의 world 토크나이저를 사용합니다.
 
